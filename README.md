@@ -78,11 +78,3 @@ Key Areas of Study:
 - JavaScript Algorithms and Data Structures - freeCodeCamp  
 - Responsive Web Design - freeCodeCamp  
 
----
-
-## 📈 GitHub Stats
-![Touseef Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=touseefahmad&show_icons=true&theme=radical)
-
----
-
-Let me know if you'd like any adjustments!
